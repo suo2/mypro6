@@ -1,0 +1,2 @@
+include ':wAPP', ':MPChartLib', ':ptr-lib'
+include ':MPChartLib'
